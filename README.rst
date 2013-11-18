@@ -1,9 +1,18 @@
+
+
+
 django-dajaxice
 ===============
 
 Dajaxice is the communication core of dajaxproject. It's main goal is to trivialize the asynchronous communication within the django server side code and your js code.
 
 dajaxice is JS-framework agnostic and focuses on decoupling the presentation logic from the server-side logic. dajaxice only requieres 5 minutes to start working.
+
+
+pax0r's notes
+-------------
+Forked to provide Django 1.6 compatibility
+
 
 Project Aims
 ------------
